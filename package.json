@@ -1,0 +1,18 @@
+{
+  "name": "gildedrose",
+  "version": "1.0.0",
+  "description": "This is small coding testing for Cognizant position",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose ./test"
+  },
+  "keywords": [
+    "Gilded",
+    "Rose"
+  ],
+  "author": "Nathan Stallings",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
